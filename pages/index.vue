@@ -3,7 +3,7 @@
     <div>
       <Logo />
       <h1 class="title">
-        projecasdt-nuxt
+        projecasdt-nuxt123
       </h1>
       <div class="links">
         <a href=" /" />

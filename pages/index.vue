@@ -3,9 +3,10 @@
     <div>
       <Logo />
       <h1 class="title">
-        project-nuxt
+        projecasdt-nuxt123
       </h1>
       <div class="links">
+        <a href=" /" />
         <a
           href="https://nuxtjs.org/"
           target="_blank"

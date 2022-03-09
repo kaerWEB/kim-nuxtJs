@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "core-js": "^3.9.1",
+    "inquirer": "^8.2.0",
     "nuxt": "^2.15.3",
     "shelljs": "^0.8.5",
     "yargs": "^17.3.1"

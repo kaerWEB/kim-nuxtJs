@@ -18,4 +18,4 @@ $ yarn generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
-沈金峰
+沈金峰 三生三世
